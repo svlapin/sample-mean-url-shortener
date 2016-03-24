@@ -1,0 +1,26 @@
+{
+  "name": "sample-url-shortener",
+  "version": "1.0.0",
+  "description": "URL shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Sergey Lapin",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "autoprefixer": "^6.3.3",
+    "body-parser": "^1.15.0",
+    "brunch": "^2.5.0",
+    "express": "^4.13.4",
+    "moment": "^2.12.0",
+    "mongoose": "^4.4.7",
+    "request": "^2.69.0",
+    "winston": "^2.2.0"
+  },
+  "devDependencies": {
+    "node-env-file": "^0.1.8"
+  }
+}

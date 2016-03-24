@@ -1,0 +1,22 @@
+{
+  "name": "upwork-test",
+  "description": "URL shortener",
+  "main": "index.js",
+  "authors": [
+    "Sergey Lapin"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
